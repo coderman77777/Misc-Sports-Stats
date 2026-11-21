@@ -10,3 +10,7 @@ Box Score: https://cdn.nba.com/static/json/liveData/boxscore/boxscore_0022400247
 
 Resources/Help:
 https://www.reddit.com/r/NBAanalytics/comments/1gwsikx/yooooooo_found_a_few_new_nba_endpoints_plus_all/
+
+
+## Live sessions log
+  - [Day 2]([https://www.youtube.com/live/81_Pmk1T0ds?si=0ZWN0nBWM8JtdHfX](https://www.youtube.com/live/2kwQbTqDoZw?si=a8hTUuSTZGkkz5E4))
